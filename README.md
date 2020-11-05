@@ -4,7 +4,7 @@
 Um repositório aberto ao público para controle organizacional, pautas de reuniões, controle de contas e organização de eventos, workshops e palestras.
 
 ## Quem?
-Somos uma gestão horizontal, formada por Arthur Neto Bem ([@arthurneto98](https://github.com/arthurneto98)), Iury Dias Piva ([@IuryPiva](https://github.com/iurypiva)) e Jeanluca F. Pereira ([@jean1dev](https://github.com/jean1dev)), onde todos as decisões e discussões são feitas de forma democrática por meio das 
+Somos uma gestão horizontal, formada por Arthur Neto Bem ([@arthurneto98](https://github.com/arthurneto98)), Jeanluca F. Pereira ([@jean1dev](https://github.com/jean1dev)), onde todos as decisões e discussões são feitas de forma democrática por meio das 
 [issues](https://github.com/centro-academico-charles-babbage/c.a.c.b/issues) deste repositório.
 
 ## Quando?
